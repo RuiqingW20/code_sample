@@ -14,3 +14,4 @@ Here is the main menu screen:
 
 Here is the short video on running this app: 
 
+![demo](./pictures/demo_fast.gif)
