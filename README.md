@@ -15,3 +15,7 @@ Here is the main menu screen:
 Here is the short video on running this app: 
 
 ![demo](./pictures/demo_fast.gif)
+
+## MD_Analysis
+### OpenMM test on butane 
+Molecular dynamics (MD) simulations were performed using OpenMM to study the structural and energetic properties of a molecular system. The system was initialized from a PDB file and simulated with a force field without nonbonded cutoff constraints. After energy minimization, equilibration at 150 K was conducted, followed by a 20 ns production run at 298.15 K using a Langevin integrator. Key thermodynamic properties, including potential energy and temperature, were monitored, and trajectory data was recorded. This simulation provides insights into the system’s stability and thermodynamic behavior.
