@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Job Comparator App</string>
+    <string name="job_class_name">Job</string>
+    <string name="job_class_id">ID</string>
+    <string name="job_class_title">Title</string>
+    <string name="job_class_company_name">Company Name</string>
+    <string name="job_class_location">Location (city, state)</string>
+    <string name="job_class_cost_of_living_index">Cost of Living Index</string>
+    <string name="job_class_yearly_salary">Yearly Salary</string>
+    <string name="job_class_yearly_bonus">Yearly Bonus</string>
+    <string name="job_class_gym_membership_annual">Gym Membership Annual Cost</string>
+    <string name="job_class_leave_time_days">Leave Time (Days)</string>
+    <string name="job_class_match_401k_percentage">401(k) Matching Percentage (%)</string>
+    <string name="job_class_pet_insurance_annual">Pet Insurance Annual Cost</string>
+    <string name="job_class_current_job">Current Job</string>
+    <string name="job_class_score">Score</string>
+
+    <string name="enter_current_job_details">Enter Current Job Details</string>
+    <string name="edit_current_job_details">Edit Current Job Details</string>
+    <string name="enter_job_offer">Enter Job Offer</string>
+    <string name="adjust_comparison_settings">Adjust Comparison Settings</string>
+    <string name="compare_jobs">Compare Jobs</string>
+    <string name="current_job">(Current Job)</string>
+
+    <string name="screen_title_job_details">Job Details Screen</string>
+    <string name="screen_title_job_details_current_job_details">Current Job Details Screen</string>
+    <string name="screen_title_job_details_job_offer">Job Offer Screen</string>
+    <string name="screen_title_adjust_comparison_settings">Adjust Comparison Settings</string>
+
+    <string name="screen_helper_job_details_enter_job_details_below">Enter Job Details Below</string>
+    <string name="screen_helper_job_details_enter_current_job_details_below">Enter Current Job Details Below</string>
+    <string name="screen_helper_job_details_edit_current_job_details_below">Edit Current Job Details Below</string>
+    <string name="screen_helper_job_details_job_offer_enter_offer_below">Enter Job Offer Below</string>
+    <string name="screen_helper_adjust_comparison_settings">Please enter integer weights below</string>
+
+    <string name="jobs_list_selection_error">You can only select up to 2 jobs</string>
+    <string name="undo">UNDO</string>
+    <string name="removed">removed</string>
+    <string name="button_save">Save</string>
+    <string name="did_not_save">Did Not Save</string>
+    <string name="saved">Saved</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_return_to_menu">Return To Menu</string>
+    <string name="button_compare">Compare Jobs</string>
+    <string name="button_compare_another_offer">Compare Another Offer</string>
+    <string name="enter_another_offer">Enter Another Offer</string>
+</resources>
